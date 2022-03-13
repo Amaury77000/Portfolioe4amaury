@@ -1,0 +1,47 @@
+@charset "UTF-8";
+img_ecole {
+    margin-left: auto;
+}
+
+.projet-prof {
+    background-color: rgb(226, 226, 226);
+}
+
+.comptierce {
+
+    background-color: rgb(216, 216, 216);
+}
+
+.comp {
+    background-color: rgb(230, 230, 230);
+}
+
+.chiffres {
+
+    background-color: rgb(207, 224, 248);
+}
+
+.presecole {
+    background-color: rgb(225, 237, 248);
+}
+
+.bts {background-color: rgb(255, 255, 255);}
+
+.bts_sio {
+ 
+    border-radius: 25px;
+    border-style: groove;
+    background-color: rgb(227, 245, 255);
+    
+}
+
+.pole {
+    border-radius: 25px;
+    border-style: groove;
+    background-color: rgb(224, 224, 224);
+    
+}
+.pres_ecole {
+
+    background-color: rgb(240, 240, 240);
+}
